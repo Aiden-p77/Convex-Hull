@@ -1,0 +1,10 @@
+C:\Programming\C#\Convex Hull\Convex Hull\bin\Debug\Convex Hull.exe.config
+C:\Programming\C#\Windows\Convex Hull\Convex Hull\bin\Debug\Convex Hull.exe.config
+C:\Programming\C#\Windows\Convex Hull\Convex Hull\bin\Debug\Convex Hull.exe
+C:\Programming\C#\Windows\Convex Hull\Convex Hull\bin\Debug\Convex Hull.pdb
+C:\Programming\C#\Windows\Convex Hull\Convex Hull\obj\Debug\Convex Hull.csprojResolveAssemblyReference.cache
+C:\Programming\C#\Windows\Convex Hull\Convex Hull\obj\Debug\Convex_Hull.fMain.resources
+C:\Programming\C#\Windows\Convex Hull\Convex Hull\obj\Debug\Convex_Hull.Properties.Resources.resources
+C:\Programming\C#\Windows\Convex Hull\Convex Hull\obj\Debug\Convex Hull.csproj.GenerateResource.Cache
+C:\Programming\C#\Windows\Convex Hull\Convex Hull\obj\Debug\Convex Hull.exe
+C:\Programming\C#\Windows\Convex Hull\Convex Hull\obj\Debug\Convex Hull.pdb
